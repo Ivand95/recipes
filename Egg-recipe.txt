@@ -1,0 +1,9 @@
+Ingredients:
+ - 2 egg
+
+Directions:
+ 1. Toma un sarten y enciende la estufa.
+ 2. Agrega aceite.
+ 3. Cuando este caliente, agrega el huevo.
+ 4. Revoltea el huevo hasta que este bien cocinado.
+ 5. Cuando termines apaga la estufa y a cocinar.
